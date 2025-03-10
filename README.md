@@ -22,7 +22,7 @@
 OK WHAT IS R.E.M.O.D.S.?!
 R.E.M.O.D.S. is a like a third party bootstraper for the roblox launcher?!??!?
 
-ned hlep?? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki)!!!. If you can't find anything do NOT submit an issue. i wont FIX it
+ned hlep?? [Check out the Wiki](https://github.com/gladosb5/R.E.M.O.D.S./wiki))!!!. If you can't find anything do NOT submit an issue. i wont FIX it
 
 R.E.M.O.D.S. is only supported for PCs running Windows.
 

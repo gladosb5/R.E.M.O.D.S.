@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Bloxstrap are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com). Any other websites offering downloads or claiming to be us are not controlled by us.
+> this is virus please do not install it jkjk actualyl idk if it got virus lolol anyways good lcuk also bte this is the onyl offival one and uhh ya
 
 <p align="center">
     <img src="https://github.com/gladosb5/R.E.M.O.D.S./blob/b56b9413be5ca6af1fffee21686ae2bdd3585297/Images/remodsya.png" width="420">

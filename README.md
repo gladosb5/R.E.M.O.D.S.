@@ -19,51 +19,46 @@
 </div>
 
 ----
+OK WHAT IS R.E.M.O.D.S.?!
+R.E.M.O.D.S. is a like a third party bootstraper for the roblox launcher?!??!?
 
-Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
+ned hlep?? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki)!!!. If you can't find anything do NOT submit an issue. i wont FIX it
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
-
-Bloxstrap is only supported for PCs running Windows.
+R.E.M.O.D.S. is only supported for PCs running Windows.
 
 ## Frequently Asked Questions
 
-**Q: Is this malware?**
+**Q: omg will i gert memz virus?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [bloxstraplabs.com](https://bloxstraplabs.com).
+**A:** yes. the source code is real and u can do this ya also btw make sure you download from offical source like only from this github
 
-**Q: Can using this get me banned?**
+**Q: will it get me banned i awanna?**
 
-**A:** No, it shouldn't. Bloxstrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
+**A:** eh nah it doesnt like automatically installs jjsploits idk if you do anything bad lolol. [red miore,...](https://github.com/bloxstraplabs/bloxstrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-Bloxstrap)
 
-**Q: Why was multi-instance launching removed?**
+**Q: why the hell was it removed the multi thing?**
 
-**A:** It was removed starting with v2.6.0 for the [reasons stated here](https://github.com/bloxstraplabs/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap). It may be added back in the future when there are less issues with doing so.
+**A:** It was removed starting with v2.6.0 for the [reasons stated here](https://github.com/bloxstraplabs/bloxstrap/wiki/Plans-to-remove-multi%E2%80%90instance-launching-from-Bloxstrap). It may be added back in the future when there are less issues with doing so. also tbw gladosb5 here i too lAXYZ to replace it back just use bloxstrap or fishstrap smh...
 
-## Features
+## featrues
 
-- Hassle-free Discord Rich Presence to let your friends know what you're playing at a glance
-- Simple support for modding of content files for customizability (death sound, mouse cursor, etc)
-- See where your server is geographically located (courtesy of [ipinfo.io](https://ipinfo.io))
-- Ability to configure graphics fidelity and UI experience
+- wow discord supprot 😀😀😀 i totally made this lolol also idk why would you like this
+- auto mod like adding (death sound, mouse cursor, etc)
+- see where u server located say thank you to  ([ipinfo.io](https://ipinfo.io))
+- can configure graphic and ui yes
 
-## Installing
-Download the [latest release of Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
+## download virusing
+not yet nuh nuh if you wanna build it do it i dont midn...
 
-Alternatively, you can install Bloxstrap via [Winget](https://winstall.app/apps/pizzaboxer.Bloxstrap) by running this in a Command Prompt window:
-```
-> winget install bloxstrap
-```
+INSTALL .NET 6 THING DESKTOP PLEASE or else no r.e.m.o.d.s!!!!!
 
-You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install Bloxstrap after you've installed this.
+if the microsoft smartscreen pops up its a sign to stay away from this program
 
-It's not unlikely that Windows Smartscreen will show a popup when you run Bloxstrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
+once installed it will inject jkjk it will give uhh app to everything idk how 2 explain it ya
 
-Once installed, Bloxstrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
-
-## Code
-
-Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
+## codind
+ughh here i 2 lazy
+R.E.M.O.D.S uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [bloxstraplabs/wpfui](https://github.com/bloxstraplabs/wpfui).
 
 
 [shield-repo-license]:  https://img.shields.io/github/license/bloxstraplabs/bloxstrap
